@@ -1,0 +1,16 @@
+digraph BINARIO {
+node [fontname="Arial", color=gray30, style=	rounded];
+
+5-> 10;
+10 -> 96;
+96 -> 30;
+30-> 2;
+2->63;
+63-> 85;
+85->47;	
+47->20;
+20->3;
+3 -> 4;
+4 -> 19;
+
+}
